@@ -1,4 +1,6 @@
-# Mini lowcost PIR Sensor - PIR_YX-358A
+# Mini low cost PIR Sensor - PIR_YX-358A
+![AHT20_BMP280 logo](https://github.com/peff74/PIR_YX-358A/blob/main/PIR_1.jpg)
+![AHT20_BMP280 logo](https://github.com/peff74/PIR_YX-358A/blob/main/PIR_2.jpg)
 - cheap +/- 1$
 - small
 - easy to use
