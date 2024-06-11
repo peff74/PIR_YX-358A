@@ -40,6 +40,9 @@ There are different versions of the PCB
 
 technical details
   ![AHT20_BMP280 logo](https://github.com/peff74/PIR_YX-358A/blob/main/OnTime.jpg)
+  ![AHT20_BMP280 logo](https://github.com/peff74/PIR_YX-358A/blob/main/timing.png)
+
+
 
 how to mod, I use a 260K resistor and got around 45 secounds
  ![AHT20_BMP280 logo](https://github.com/peff74/PIR_YX-358A/blob/main/MOD_1.jpg)
