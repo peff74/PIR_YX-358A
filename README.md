@@ -49,3 +49,5 @@ technical details
 how to mod, I use a 260K resistor and got around 45 secounds
  ![AHT20_BMP280 logo](https://github.com/peff74/PIR_YX-358A/blob/main/MOD_1.jpg)
   ![AHT20_BMP280 logo](https://github.com/peff74/PIR_YX-358A/blob/main/MOD_2.jpg)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpeff74%2FPIR_YX-358A&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
