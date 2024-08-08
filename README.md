@@ -49,5 +49,16 @@ technical details
 how to mod, I use a 260K resistor and got around 45 secounds
  ![AHT20_BMP280 logo](https://github.com/peff74/PIR_YX-358A/blob/main/MOD_1.jpg)
   ![AHT20_BMP280 logo](https://github.com/peff74/PIR_YX-358A/blob/main/MOD_2.jpg)
+  
+## Other Version 
+  ![AHT20_BMP280 logo](https://github.com/peff74/PIR_YX-358A/blob/main/PIR_otherVersion.jpg)
 
+Here the resistor R10 is responsible for the delay.
+To change the delay
+
+- 160K Ohm - 23 seconds
+- 220K Ohm - 30 seconds
+- 300K Ohm - 1 minute
+- 470K Ohm - 3 minutes
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpeff74%2FPIR_YX-358A&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
